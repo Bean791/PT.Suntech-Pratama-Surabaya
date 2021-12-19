@@ -17,3 +17,6 @@ h5 {
   max-width: 150px;
   filter: drop-shadow(1px 1px 1px black);
 }
+section, footer{
+  padding: 20px 0;
+}
