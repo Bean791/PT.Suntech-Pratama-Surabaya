@@ -7,7 +7,7 @@ h5 {
   text-shadow: 1px 1px 3px black;
 }
 .parallax-container {
-  height: 25%;
+  height: auto;
 }
 .parallax img {
   filter: grayscale(1);
